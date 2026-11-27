@@ -15,7 +15,7 @@ My main mission right now is making **Dragon Ball Z: Budokai Tenkaichi 3** moddi
 ---
 
 ### 🛠️ Featured Project
-* **[PSRET-turbowarp-tenkaichi-3-modding-tool](https://github.com)**  
+* **[PSRET-turbowarp-tenkaichi-3-modding-tool](https://github.com/CommunistGoku5317/PSRET-turbowarp-tenkaichi-3-modding-tool)**  
   A browser-based **AFS/AFL/PAK Explorer, Rebuilder & QRS 4/8-bit Texture Decoder** built as an unsandboxed TurboWarp extension (`BT3_Web_Modder.js`). Designed to inspect and modify PS2/Wii game files with ease.
 
 ---
