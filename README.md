@@ -1,11 +1,8 @@
 <div align="center">
-<h1>⚡ Welcome to CommunistGoku5317's GitHub ⚡</h1>
+  <h1>⚡ Welcome to CommunistGoku5317's GitHub ⚡</h1>
+  <p><i>"Seizing the means of game modding, one texture at a time. Protected by the GPL: because these aren't MY tools, comrade—they are OUR tools."</i></p>
+</div>
 
-
-*"Seizing the means of game modding, one texture at a time. Protected by the GPL: because these aren't MY tools, comrade—they are OUR tools."*
-</i></p>
-
-  
 
 ### 🐉 About Me
 Hi there! I'm **CommunistGoku5317**, a developer passionate about retro game reverse engineering, binary file formats, and pushing browser-based tools beyond their limits. 
