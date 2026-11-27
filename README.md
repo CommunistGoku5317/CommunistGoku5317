@@ -1,6 +1,9 @@
 <div align="center">
   <h1>⚡ Welcome to CommunistGoku5317's GitHub ⚡</h1>
-  <p><i>"Seizing the means of game modding, one texture at a time."</i></p>
+  <p><i>"# ⚡ Welcome to CommunistGoku5317's GitHub ⚡
+
+*"Seizing the means of game modding, one texture at a time. Protected by the GPL: because these aren't MY tools, comrade—they are OUR tools."*
+"</i></p>
 
   
 
