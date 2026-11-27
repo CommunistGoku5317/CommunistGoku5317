@@ -2,13 +2,7 @@
   <h1>⚡ Welcome to CommunistGoku5317's GitHub ⚡</h1>
   <p><i>"Seizing the means of game modding, one texture at a time."</i></p>
 
-  <img src="https://shields.io" alt="Focus" />
-  <img src="https://shields.io" alt="Platform" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TurboWarp" />
-</div>
-
----
+  
 
 ### 🐉 About Me
 Hi there! I'm **CommunistGoku5317**, a developer passionate about retro game reverse engineering, binary file formats, and pushing browser-based tools beyond their limits. 
